@@ -18,6 +18,6 @@ var NY22 = new DateTime(DateTime.Now.Year, 1, 1);
 Console.WriteLine((NY23 - now).Days + " days left to New Year");
 Console.WriteLine((now - NY22).Days + " days passed from New Year");
 
-
+//checked
 
 
